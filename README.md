@@ -7,5 +7,12 @@ I haven't decided yet wich GUI will have if it will.
 
 Any comment, commit, will be well recieved.
 
+Requirements
+=======
+Requests (http://docs.python-requests.org/en/latest/)
+
+Contact
+=======
+
 Contact at : ifjulo <AT> gmail <DOT> com 
 
